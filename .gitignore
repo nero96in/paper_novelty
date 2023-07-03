@@ -1,3 +1,5 @@
+.gitignore
+.ipynb_checkpoints/
 model/further-trained/
 model/pretrained/
 data/papers/details/
