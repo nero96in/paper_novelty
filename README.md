@@ -1,8 +1,9 @@
 # Measuring the novelty of scientific publications: A fastText and local outlier factor approach
 
 ### Authors
-* [Junyoup Lee](https://scholar.google.com/citations?user=OPO_zEUAAAAJ&hl=ko&oi=ao)
 * [Daeseong Jeon](https://scholar.google.com/citations?user=eHZk3uAAAAAJ&hl=ko&oi=ao)
+* [Junyoup Lee](https://scholar.google.com/citations?user=OPO_zEUAAAAJ&hl=ko&oi=ao)
+* [Joonmo Ahn](https://scholar.google.com/citations?user=1YZdejsAAAAJ&hl=ko&oi=ao)
 * [Changyong Lee+](https://scholar.google.com/citations?user=RjoAf88AAAAJ&hl=ko&oi=ao) (Corresponding Author)
 
 ### Abstract
